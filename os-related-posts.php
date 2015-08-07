@@ -1,7 +1,7 @@
-<?php
+﻿<?php
 /**
  * Plugin Name: OS Related Posts
- * Plugin URI: https://wordpress.org/plugins/os-related-posts/
+ * Plugin URI: http://offshorent.com/blog/extensions/os-related-posts
  * Description: The OS Related Posts feature scans all of your posts, analyzes them, and lets you show contextual posts under the same category.
  * Version: 2.0
  * Author: Jinesh, Senior Software Engineer
