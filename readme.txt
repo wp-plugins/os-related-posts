@@ -24,8 +24,6 @@ Support
 
 So that others can share in the answer, please submit your support requests through the WordPress forums for OS Related Posts(http://wordpress.org/support/plugin/os-related-posts).
 
-If you want private or priority support, please [donate](http://offshorent.com/donate/) at least $5 USD to cover my time.
-
 == Installation ==
 
 Minimum requirements:    
