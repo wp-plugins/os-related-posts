@@ -7,7 +7,7 @@
  * Author: Jinesh, Senior Software Engineer
  * Author URI: http://www.offshorent.com/
  * Requires at least: 3.0
- * Tested up to: 4.2.3
+ * Tested up to: 4.2.4
 **/
 
 if ( ! defined( 'ABSPATH' ) ) {
