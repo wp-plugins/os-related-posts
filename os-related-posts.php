@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Plugin Name: OS Related Posts
  * Plugin URI: http://offshorent.com/blog/extensions/os-related-posts
@@ -750,3 +750,4 @@ endif;
  */
  
 return new OSRelatedPosts;
+?>
